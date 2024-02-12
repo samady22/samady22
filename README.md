@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FreeCodeCamp courses**
 
-- 💬 Ask me about **React, Nest.js**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **hikmatsamady@gmail.com**
 
