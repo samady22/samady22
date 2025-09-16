@@ -1,6 +1,6 @@
 ![logo](https://github.com/samady22/samady22/blob/main/1619178286323.jpg)
 <h1 align="center">Hi 👋, I'm Hikmatullah Samady</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samady22&label=Profile%20views&color=0e75b6&style=flat" alt="samady22" /> </p>
 <img alt="coding" align="right" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" /> 
